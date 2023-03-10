@@ -19,5 +19,5 @@ I have worked with
 
 I am learning
 
-<a href="https://angular.io/" title="Angular"><img src="https://github.com/OlegIlyenko/scala-icon/blob/master/scala-icon.png" alt="Scala" width="21px" height="21px"></a>
+<a href="https://angular.io/" title="Scala"><img src="https://github.com/OlegIlyenko/scala-icon/blob/master/scala-icon.png" alt="Scala" width="21px" height="21px"></a>
 
