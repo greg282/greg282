@@ -17,7 +17,4 @@ I have worked with
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 
-I am learning
-
-<a href="https://angular.io/" title="Scala"><img src="https://github.com/OlegIlyenko/scala-icon/blob/master/scala-icon.png" alt="Scala" width="21px" height="21px"></a>
 
